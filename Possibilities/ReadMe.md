@@ -1,4 +1,4 @@
-<center>#### Adventure
+#### Adventure
 
 Want to learn Bash? Well you have come to the right place!
 
@@ -10,7 +10,7 @@ Once installed open the README.md file using the command
 
 >`cat README.md`
 
-Have fun adventuring!</center>
+Have fun adventuring!
 
 
 
