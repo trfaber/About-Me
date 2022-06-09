@@ -1,5 +1,5 @@
 This directory contains folders that represent questions. 
-These folders contain the answers to the respective subject matter.
+These directories contain the answers to the respective subject matter.
 
 Path to the current directory /home/trfaber/About_Me
 
